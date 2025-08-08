@@ -69,7 +69,7 @@ python market_basket_analysis.py
 
 Nidhay Shukla
 🎓 MSc IT Student | 💻 Python Dev | 📍 Aurangabad, India
-🔗 Let’s connect on LinkedIn
+🔗 [Let’s connect on LinkedIn](https://www.linkedin.com/in/nidhay-shukla-4326a0343)
 
 
 ⭐ If you find this project useful, don’t forget to give it a star!
