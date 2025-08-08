@@ -44,7 +44,7 @@ retail_market_basket_analysis/
 
 ## 🚀 How to Run This Project
 
-1. 📥 Make sure Python 3 is installed on your machine
+1. 📥 Make sure Python `3.x` is installed on your machine
 
 
 2. 🛠️ Install the required packages by running:
