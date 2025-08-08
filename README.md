@@ -22,7 +22,7 @@ Want to see which grocery items customers often buy together? This project uses 
 
 ## 🛠️ Tech Stack
 
-Python '3.x'
+Python `3.x`
 
 pandas
 
