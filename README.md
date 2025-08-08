@@ -17,11 +17,9 @@ strong_association_rules.csv — The output file with the most interesting and u
 
 1. Make sure you have Python 3 installed on your computer.
 
-
 2. Install the libraries needed by running:
 
 pip install pandas mlxtend matplotlib
-
 
 3. Run the script by typing this in your terminal or command prompt:
 
